@@ -5,8 +5,8 @@ This site is dedicated to providing various post about various solutions for IT 
 
 ## Solutions
 
-- Linux 
+- [Linux](/docs/linux) 
 
-- Windows
+- [Windows](/docs/windows)
 
-- Virtualization
+- [Virtualization](/docs/virt)
